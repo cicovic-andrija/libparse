@@ -1,4 +1,4 @@
-*              text=auto eol=lf
+*              text=auto
 *.rs           text diff=rust
 *.toml         text
 *.lock         text
