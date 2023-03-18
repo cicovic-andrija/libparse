@@ -1,0 +1,9 @@
+[package]
+name = "libparse"
+authors = ["Andrija Cicovic <cicovic.andrija@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Various parsers implemented using parser combinators"
+
+[dependencies]

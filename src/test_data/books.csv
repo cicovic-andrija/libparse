@@ -1,0 +1,30 @@
+#,Naslov,Podnaslov,Autor,Forma,Prevod,Jezik,Izdanje,Pročitano,Redosled,Afinitet
+1,"""Učenje Don Huana""","""Znanje Indijanaca Jaki""",Karlos Kastaneda,Memoari,sr,en,"Prosveta, Beograd, 1981.",Da,0.1,0
+2,"""Odvojena stvarnost""","""Nastavak razgovora s Don Huanom""",Karlos Kastaneda,Memoari,sr,en,"Prosveta, Beograd, 1981.",Ne,0.2,0
+3,"""Put u Ihtlan""",,Karlos Kastaneda,Memoari,sr,en,"Prosveta, Beograd, 1981.",Ne,0.3,0
+4,"""Priče o moći""",,Karlos Kastaneda,Memoari,sr,en,"Prosveta, Beograd, 1981.",Ne,0.4,0
+5,"""Orlov dar""",,Karlos Kastaneda,Memoari,sr,en,"BIGZ, Beograd, 1984.",Ne,0.6,0
+6,"""Kroz vasionu i vekove""",,Milutin Milanković,Autobiografija,,sr,,Ne,,1
+7,"""Twelfth Night""",,William Shakespeare,Drama,,en,,Ne,,1
+8,"""Database In Depth""","""Relational Theory for Practitioners""",C. J. Date,Tehnička literatura,,en,,Da,,1
+9,"""Grčka mitologija""",,Sofia Souli,Mitologija,sr,el,Toubi's,Da,,1
+10,"""Cretan Cooking""",,"Maria Psilakis, Nikos Psilakis",Kuvar,en,el,Karmanor,Ne,,1
+11,"""100 Dives of a Lifetime""",,Carrie Miller,Fotografije,,en,National Geographic,Ne,,1
+12,"""The Go Programming Language""",,"Alan A. A. Donovan, Brian W. Kernighan",Tehnička literatura,,en,,Da,,1
+13,"""Programski jezik C""","""ANSI C""","Brian W. Kernighan, Dennis M. Ritchie",Tehnička literatura,sr,en,Drugo izdanje,Da,,0
+14,"""Verovatnoća i statistika""",,Milan Merkle,Tehnička literatura,,sr,,Da,,1
+15,"""Veliki Getsbi""",,F. Skot Ficdžerald,Roman,sr,en,"Vek Politike, Politika, Narodna knjiga, 2004.",Da,,0
+16,"""Ubistvo u Orijent-ekspresu""",,Agata Kristi,Roman,sr,en,"Vek Politike, Politika, Narodna knjiga, 2004.",Da,,1
+17,"""Uliks""",,Džejms Džojs,Roman,sr,en,Geopoetika,Ne,,1
+18,"""The Colosseum""",,Rossella Rea,Arhitektura,en,it,,Ne,,1
+19,"""Koreni""",,Dobrica Ćosić,Roman,,sr,,Da,,0
+20,"""Put za Jerusalim""",,Jan Giju,Roman,sr,sv,Laguna,Da,1.1,0
+21,"""Templar""",,Jan Giju,Roman,sr,sv,Laguna,Da,1.2,0
+22,"""Kraljevstvo na kraju puta""",,Jan Giju,Roman,sr,sv,Laguna,Da,1.3,0
+23,"""1Q84""",,Haruki Murakami,Roman,en,ja,,Ne,,1
+24,"""Južno od granice, zapadno od sunca""",,Haruki Murakami,Roman,sr,ja,,Da,,0
+25,"""Kad padne noć""",,Haruki Murakami,Roman,sr,ja,,Da,,0
+26,"""Pogledaj dom svoj, anđele""",,Tomas Vulf,Roman,sr,en,,Ne,,1
+27,"""Dune""",,Frank Herbert,Roman,,en,ACE Hardback,Da,,0
+28,"""Metro 2033""",,Dmitrij Gluhovski,Roman,sr,ru,Dereta,Da,,0
+29,"""The Books of Earthsea""","""The Complete Illustrated Edition""",Ursula K. Le Guin,Roman,,en,Saga Press,Ne,,0
